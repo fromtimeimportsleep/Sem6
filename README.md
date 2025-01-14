@@ -56,7 +56,7 @@ Weightage of everything for grades
 
 - Class Participation: 10%
 - Quizzes: 20%
-- Midsem: 35%
+- Midsem: 30%
 - Endsem: 40%
 - There might be a viva idk for what lol
 
