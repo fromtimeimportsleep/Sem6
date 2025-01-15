@@ -7,8 +7,10 @@
 
 ## Tentative exam dates
 
-- CS 320 Quiz 1: 10th Feb
-- CS 317 Quiz 2: 17th March
+- CS 317 Quiz 1: 31st Jan (FRI - 8:30am-9:25am)
+- CS 320 Quiz 1: 10th Feb (MON)
+- CS 320 Quiz 2: 17th Mar (MON)
+- CS 317 Quiz 2: 28th Mar (FRI - 8:30am-9:25am)
 
 ## Tips to use this repository
 
